@@ -32,11 +32,4 @@ Designed and implemented a **hybrid Retrieval-Augmented Generation (RAG) pipelin
 
 
 ### 🔹 Architecture Diagram
-```mermaid
-flowchart TD
-    A[Regulations] -->|Preprocessing + Embedding| B[Vector Store (FAISS)]
-    C[Policies] -->|Preprocessing + Embedding| B
-    D[Evaluation Request] --> E[LangChain Retrieval + LLM]
-    B --> E
-    E --> F[Clause Classification]
-    F --> G[Compliance Report (Exportable: CSV/PDF)]
+📄 [View Architecture Diagram (PDF)](Solution Architecture - PNG.png)
