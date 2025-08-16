@@ -14,9 +14,9 @@ Organizations in regulated sectors (finance, healthcare, education, etc.) must c
 ## 🎯 Objectives
 - Automate the process of comparing **organizational policies vs. regulations**.  
 - Classify regulatory clauses as:  
-  - ✅ Fully Addressed  
-  - ⚠️ Partially Addressed  
-  - ❌ Not Addressed  
+  ✅ Fully Addressed  
+  ⚠️ Partially Addressed  
+  ❌ Not Addressed  
 - Generate **structured, interpretable reports** for compliance officers.  
 - Ensure the solution is **scalable, transparent, and adaptable** across domains.  
 
