@@ -9,18 +9,22 @@ Organizations in regulated sectors (finance, healthcare, education, etc.) must c
 
 **Business Challenge:** Automate compliance evaluation so auditors and policy teams can quickly identify gaps, reduce manual effort, and improve audit readiness.  
 
+
 ---
+
 
 ## 🎯 Objectives
 - Automate the process of comparing **organizational policies vs. regulations**.  
 - Classify regulatory clauses as:  
-  ✅ Fully Addressed  
-  ⚠️ Partially Addressed  
-  ❌ Not Addressed  
+        ✅ Fully Addressed  
+        ⚠️ Partially Addressed  
+        ❌ Not Addressed  
 - Generate **structured, interpretable reports** for compliance officers.  
 - Ensure the solution is **scalable, transparent, and adaptable** across domains.  
 
+
 ---
+
 
 ## 🏗️ Solution Approach
 Designed and implemented a **Retrieval-Augmented Generation (RAG) pipeline** that ingests both regulations and policies, retrieves relevant matches, and applies **LLM-based classification** to assess compliance.  
