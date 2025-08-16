@@ -1,4 +1,4 @@
-# 🛡️ Case Study: Compliance Automation with RAG + ML Classifier + LLMs
+# 🛡️ Case Study: Compliance Automation with RAG + ML + LLMs
 A Retrieval-Augmented Generation (RAG) pipeline for automated compliance evaluation of regulations and organizational policies.
 
 ## 📌 Background & Problem
