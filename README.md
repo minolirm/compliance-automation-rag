@@ -33,3 +33,8 @@ Designed and implemented a **hybrid Retrieval-Augmented Generation (RAG) pipelin
 
 ### 🔹 Architecture Diagram
 📄 ![View Architecture Diagram](solution_architecture.png)
+
+## 🛠️ Tech Stack
+- **Languages & Libraries:** Python, Pandas, Scikit-learn, FAISS, LangChain, OpenAI API  
+- **Frameworks:** Streamlit
+- **Concepts:** RAG (Retrieval-Augmented Generation), Vector Databases, Clause Classification  
