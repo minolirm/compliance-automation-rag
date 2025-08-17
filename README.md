@@ -39,7 +39,7 @@ Designed and implemented a **hybrid Retrieval-Augmented Generation (RAG) pipelin
 - **Frameworks:** Streamlit
 - **Concepts:** RAG (Retrieval-Augmented Generation), Vector Databases, Clause Classification
 
-  ## 🔮 Future Enhancements
+## 🔮 Future Enhancements
 - Integrate Pinecone for scalable cloud vector search  
 - Add dashboard for interactive compliance reporting  
 - Extend multi-language support to handle regulations across different regions and jurisdictions  
