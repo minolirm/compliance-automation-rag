@@ -32,4 +32,4 @@ Designed and implemented a **hybrid Retrieval-Augmented Generation (RAG) pipelin
 
 
 ### 🔹 Architecture Diagram
-📄 [View Architecture Diagram](Solution Architecture - PNG.png)
+📄 [View Architecture Diagram](solution_architecture.png)
