@@ -1,5 +1,5 @@
 # Case Study: Compliance Automation with RAG + ML + LLMs
-A Retrieval-Augmented Generation (RAG) pipeline for automated compliance evaluation of regulations and organizational policies.
+ Retrieval-Augmented Generation (RAG) system design pipeline for automated compliance evaluation of regulations and organizational policies.
 
 ## 📌 Background & Problem
 Organizations in regulated sectors (finance, healthcare, education, etc.) must constantly ensure that their internal policies align with external regulations.  
